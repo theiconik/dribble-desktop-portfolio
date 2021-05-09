@@ -23,11 +23,7 @@ export default function Home() {
           >
             Hello<span>,</span> I<span>'</span>m Ujjawal<span>,</span>
             <br />
-            3rd year B<span>.</span>Tech CSE student
-            <br />
-            with frontend skillset<span>.</span> It<span>'</span>s my
-            <br />
-            pleasure you found me<span>.</span>
+            CSE undergrad with <br /> web frontend skillset<span>.</span>
           </div>
           <div>
             See my projects on{" "}
