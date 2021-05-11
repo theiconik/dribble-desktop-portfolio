@@ -1,3 +1,12 @@
+@font-face {
+  font-family: 'RF Dewi Expanded';
+  src: url('RFDewiExpanded-Regular.woff2') format('woff2'),
+      url('RFDewiExpanded-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 * {
   font-family: 'RF Dewi Expanded', sans-serif;
   color: #2A60FA;
